@@ -1,0 +1,369 @@
+Apr 17 18:35:54 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+Apr 17 18:35:54 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+Apr 17 18:35:54 +02:00 (none)  Bringing up the loopback interface... OK
+Apr 17 18:35:54 +02:00 (none)  Setting hostname to lfs-ulayus... OK
+Apr 17 18:35:54 +02:00 lfs-ulayus  Populating /dev with device nodes...  OK
+Apr 17 18:35:50 +02:00 lfs-ulayus  Activating all swap files/partitions... OK
+Apr 17 18:35:50 +02:00 lfs-ulayus  Mounting root file system in read-only mode...  OK
+Apr 17 18:35:50 +02:00 lfs-ulayus  Checking file systems...Apr 17 18:35:50 +02:00 lfs-ulayus  
+WARNING:
+
+File system errors were found and have been corrected.
+      You may want to double-check that everything was fixed properly. WARN
+Apr 17 18:35:50 +02:00 lfs-ulayus  Remounting root file system in read-write mode... OK
+Apr 17 18:35:50 +02:00 lfs-ulayus  Mounting remaining file systems... OK
+Apr 17 18:35:50 +02:00 lfs-ulayus  Cleaning file systems: /tmp OK
+Apr 17 18:35:50 +02:00 lfs-ulayus  Creating files and directories...  OK
+Apr 17 18:35:50 +02:00 lfs-ulayus  Retrying failed uevents, if any... OK
+Apr 17 18:35:51 +02:00 lfs-ulayus  Setting up Linux console... OK
+Apr 17 18:35:51 +02:00 lfs-ulayus  Starting system log daemon... OK
+Apr 17 18:35:51 +02:00 lfs-ulayus  Starting kernel log daemon... OK
+Apr 17 18:35:51 +02:00 lfs-ulayus  Bringing up the eth0 interface...Apr 17 18:35:51 +02:00 lfs-ulayus  Interface eth0 doesn't exist. FAIL
+--------
+May 28 14:00:11 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 14:00:11 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 14:00:11 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 14:00:11 +02:00 (none)  Setting hostname to lfs-ulayus... OK
+May 28 14:00:11 +02:00 lfs-ulayus  Populating /dev with device nodes...  OK
+May 28 14:00:06 +02:00 lfs-ulayus  Activating all swap files/partitions... OK
+May 28 14:00:06 +02:00 lfs-ulayus  Mounting root file system in read-only mode...  OK
+May 28 14:00:06 +02:00 lfs-ulayus  Checking file systems...May 28 14:00:06 +02:00 lfs-ulayus  
+WARNING:
+
+File system errors were found and have been corrected.
+      You may want to double-check that everything was fixed properly. WARN
+May 28 14:00:06 +02:00 lfs-ulayus  Remounting root file system in read-write mode... OK
+May 28 14:00:06 +02:00 lfs-ulayus  Mounting remaining file systems... OK
+May 28 14:00:06 +02:00 lfs-ulayus  Cleaning file systems: /tmp OK
+May 28 14:00:06 +02:00 lfs-ulayus  Creating files and directories...  OK
+May 28 14:00:06 +02:00 lfs-ulayus  Retrying failed uevents, if any... OK
+May 28 14:00:07 +02:00 lfs-ulayus  Setting up Linux console... OK
+May 28 14:00:07 +02:00 lfs-ulayus  Starting system log daemon... OK
+May 28 14:00:07 +02:00 lfs-ulayus  Starting kernel log daemon... OK
+May 28 14:00:07 +02:00 lfs-ulayus  Bringing up the eth0 interface...May 28 14:00:07 +02:00 lfs-ulayus  Interface eth0 doesn't exist. FAIL
+--------
+May 28 14:02:35 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 14:02:35 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 14:02:35 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 14:02:35 +02:00 (none)  Setting hostname to lfs-ulayus... OK
+May 28 14:02:35 +02:00 lfs-ulayus  Populating /dev with device nodes...  OK
+May 28 14:02:27 +02:00 lfs-ulayus  Activating all swap files/partitions... OK
+May 28 14:02:27 +02:00 lfs-ulayus  Mounting root file system in read-only mode...  OK
+May 28 14:02:27 +02:00 lfs-ulayus  Checking file systems... OK
+May 28 14:02:27 +02:00 lfs-ulayus  Remounting root file system in read-write mode... OK
+May 28 14:02:27 +02:00 lfs-ulayus  Mounting remaining file systems... OK
+May 28 14:02:27 +02:00 lfs-ulayus  Cleaning file systems: /tmp OK
+May 28 14:02:27 +02:00 lfs-ulayus  Creating files and directories...  OK
+May 28 14:02:27 +02:00 lfs-ulayus  Retrying failed uevents, if any... OK
+May 28 14:02:28 +02:00 lfs-ulayus  Setting up Linux console... OK
+May 28 14:02:28 +02:00 lfs-ulayus  Starting system log daemon... OK
+May 28 14:02:28 +02:00 lfs-ulayus  Starting kernel log daemon... OK
+May 28 14:02:28 +02:00 lfs-ulayus  Bringing up the enp0s3 interface... OK
+May 28 14:02:28 +02:00 lfs-ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 14:02:28 +02:00 lfs-ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+--------
+May 28 14:04:51 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 14:04:51 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 14:04:51 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 14:04:51 +02:00 (none)  Setting hostname to lfs-ulayus... OK
+May 28 14:04:51 +02:00 lfs-ulayus  Populating /dev with device nodes...  OK
+May 28 14:04:43 +02:00 lfs-ulayus  Activating all swap files/partitions... OK
+May 28 14:04:43 +02:00 lfs-ulayus  Mounting root file system in read-only mode...  OK
+May 28 14:04:43 +02:00 lfs-ulayus  Checking file systems... OK
+May 28 14:04:43 +02:00 lfs-ulayus  Remounting root file system in read-write mode... OK
+May 28 14:04:43 +02:00 lfs-ulayus  Mounting remaining file systems... OK
+May 28 14:04:43 +02:00 lfs-ulayus  Cleaning file systems: /tmp OK
+May 28 14:04:43 +02:00 lfs-ulayus  Creating files and directories...  OK
+May 28 14:04:44 +02:00 lfs-ulayus  Retrying failed uevents, if any... OK
+May 28 14:04:45 +02:00 lfs-ulayus  Setting up Linux console... OK
+May 28 14:04:45 +02:00 lfs-ulayus  Starting system log daemon... OK
+May 28 14:04:45 +02:00 lfs-ulayus  Starting kernel log daemon... OK
+May 28 14:04:45 +02:00 lfs-ulayus  Bringing up the enp0s3 interface... OK
+May 28 14:04:45 +02:00 lfs-ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 14:04:45 +02:00 lfs-ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+--------
+May 28 14:06:07 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 14:06:07 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 14:06:07 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 14:06:07 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 14:06:07 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 14:05:59 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 14:05:59 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 14:05:59 +02:00 ulayus  Checking file systems... OK
+May 28 14:05:59 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 14:05:59 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 14:05:59 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 14:05:59 +02:00 ulayus  Creating files and directories...  OK
+May 28 14:05:59 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 14:06:00 +02:00 ulayus  Setting up Linux console... OK
+May 28 14:06:00 +02:00 ulayus  Starting system log daemon... OK
+May 28 14:06:00 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 14:06:00 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 14:06:00 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 14:06:00 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+--------
+May 28 14:06:58 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 14:06:58 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 14:06:58 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 14:06:58 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 14:06:58 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 14:06:52 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 14:06:52 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 14:06:52 +02:00 ulayus  Checking file systems...May 28 14:06:52 +02:00 ulayus  
+WARNING:
+
+File system errors were found and have been corrected.
+      You may want to double-check that everything was fixed properly. WARN
+May 28 14:06:52 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 14:06:52 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 14:06:52 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 14:06:52 +02:00 ulayus  Creating files and directories...  OK
+May 28 14:06:52 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 14:06:53 +02:00 ulayus  Setting up Linux console... OK
+May 28 14:06:53 +02:00 ulayus  Starting system log daemon... OK
+May 28 14:06:53 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 14:06:53 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 14:06:53 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 14:06:53 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+--------
+May 28 14:32:41 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 14:32:41 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 14:32:41 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 14:32:41 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 14:32:41 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 14:32:36 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 14:32:36 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 14:32:36 +02:00 ulayus  Checking file systems...May 28 14:32:36 +02:00 ulayus  
+WARNING:
+
+File system errors were found and have been corrected.
+      You may want to double-check that everything was fixed properly. WARN
+May 28 14:32:36 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 14:32:36 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 14:32:36 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 14:32:36 +02:00 ulayus  Creating files and directories...  OK
+May 28 14:32:36 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 14:32:37 +02:00 ulayus  Setting up Linux console... OK
+May 28 14:32:37 +02:00 ulayus  Starting system log daemon... OK
+May 28 14:32:37 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 14:32:37 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 14:32:37 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 14:32:37 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+--------
+May 28 14:43:20 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 14:43:20 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 14:43:20 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 14:43:20 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 14:43:20 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 14:43:15 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 14:43:15 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 14:43:15 +02:00 ulayus  Checking file systems...May 28 14:43:15 +02:00 ulayus  
+WARNING:
+
+File system errors were found and have been corrected.
+      You may want to double-check that everything was fixed properly. WARN
+May 28 14:43:15 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 14:43:15 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 14:43:15 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 14:43:15 +02:00 ulayus  Creating files and directories...  OK
+May 28 14:43:15 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 14:43:16 +02:00 ulayus  Setting up Linux console... OK
+May 28 14:43:16 +02:00 ulayus  Starting system log daemon... OK
+May 28 14:43:16 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 14:43:16 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 14:43:16 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 14:43:16 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+--------
+May 28 14:46:49 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 14:46:49 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 14:46:49 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 14:46:49 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 14:46:49 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 14:46:46 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 14:46:46 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 14:46:46 +02:00 ulayus  Checking file systems... OK
+May 28 14:46:46 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 14:46:46 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 14:46:46 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 14:46:46 +02:00 ulayus  Creating files and directories...  OK
+May 28 14:46:46 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 14:46:47 +02:00 ulayus  Setting up Linux console... OK
+May 28 14:46:47 +02:00 ulayus  Starting system log daemon... OK
+May 28 14:46:47 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 14:46:47 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 14:46:47 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 14:46:47 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+--------
+May 28 14:49:26 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 14:49:26 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 14:49:26 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 14:49:26 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 14:49:26 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 14:49:18 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 14:49:18 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 14:49:18 +02:00 ulayus  Checking file systems... OK
+May 28 14:49:18 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 14:49:18 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 14:49:18 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 14:49:18 +02:00 ulayus  Creating files and directories...  OK
+May 28 14:49:18 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 14:49:19 +02:00 ulayus  Setting up Linux console... OK
+May 28 14:49:19 +02:00 ulayus  Starting system log daemon... OK
+May 28 14:49:19 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 14:49:19 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 14:49:19 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 14:49:19 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+--------
+May 28 14:51:24 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 14:51:24 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 14:51:24 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 14:51:24 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 14:51:24 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 14:51:20 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 14:51:20 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 14:51:20 +02:00 ulayus  Checking file systems... OK
+May 28 14:51:20 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 14:51:20 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 14:51:20 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 14:51:20 +02:00 ulayus  Creating files and directories...  OK
+May 28 14:51:20 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 14:51:21 +02:00 ulayus  Setting up Linux console... OK
+May 28 14:51:21 +02:00 ulayus  Starting system log daemon... OK
+May 28 14:51:21 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 14:51:21 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 14:51:21 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 14:51:21 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+--------
+May 28 15:08:15 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 15:08:15 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 15:08:15 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 15:08:15 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 15:08:15 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 15:08:11 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 15:08:11 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 15:08:11 +02:00 ulayus  Checking file systems...May 28 15:08:11 +02:00 ulayus  
+WARNING:
+
+File system errors were found and have been corrected.
+      You may want to double-check that everything was fixed properly. WARN
+May 28 15:08:11 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 15:08:11 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 15:08:11 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 15:08:11 +02:00 ulayus  Creating files and directories...  OK
+May 28 15:08:11 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 15:08:12 +02:00 ulayus  Setting up Linux console... OK
+May 28 15:08:12 +02:00 ulayus  Starting system log daemon... OK
+May 28 15:08:12 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 15:08:12 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 15:08:12 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 15:08:12 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+--------
+May 28 15:19:16 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 15:19:16 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 15:19:16 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 15:19:16 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 15:19:16 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 15:19:12 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 15:19:12 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 15:19:12 +02:00 ulayus  Checking file systems... OK
+May 28 15:19:12 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 15:19:12 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 15:19:12 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 15:19:12 +02:00 ulayus  Creating files and directories...  OK
+May 28 15:19:12 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 15:19:13 +02:00 ulayus  Setting up Linux console... OK
+May 28 15:19:13 +02:00 ulayus  Starting system log daemon... OK
+May 28 15:19:13 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 15:19:13 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 15:19:13 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 15:19:13 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+May 28 15:19:13 +02:00 ulayus  Starting SSH Server... OK
+--------
+May 28 15:37:12 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 15:37:12 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 15:37:12 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 15:37:12 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 15:37:12 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 15:37:05 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 15:37:05 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 15:37:05 +02:00 ulayus  Checking file systems... OK
+May 28 15:37:05 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 15:37:05 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 15:37:05 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 15:37:05 +02:00 ulayus  Creating files and directories...  OK
+May 28 15:37:05 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 15:37:06 +02:00 ulayus  Setting up Linux console... OK
+May 28 15:37:06 +02:00 ulayus  Starting system log daemon... OK
+May 28 15:37:06 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 15:37:06 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 15:37:06 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 15:37:06 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+May 28 15:37:06 +02:00 ulayus  Starting SSH Server... OK
+--------
+May 28 16:08:47 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 16:08:47 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 16:08:47 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 16:08:47 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 16:08:47 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 16:08:42 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 16:08:42 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 16:08:42 +02:00 ulayus  Checking file systems...May 28 16:08:42 +02:00 ulayus  
+WARNING:
+
+File system errors were found and have been corrected.
+      You may want to double-check that everything was fixed properly. WARN
+May 28 16:08:42 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 16:08:42 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 16:08:42 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 16:08:42 +02:00 ulayus  Creating files and directories...  OK
+May 28 16:08:42 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 16:08:43 +02:00 ulayus  Setting up Linux console... OK
+May 28 16:08:43 +02:00 ulayus  Starting system log daemon... OK
+May 28 16:08:43 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 16:08:43 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 16:08:43 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 16:08:43 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+May 28 16:08:43 +02:00 ulayus  Starting SSH Server... OK
+--------
+May 28 17:27:20 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 17:27:20 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 17:27:20 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 17:27:20 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 17:27:20 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 17:27:12 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 17:27:12 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 17:27:12 +02:00 ulayus  Checking file systems... OK
+May 28 17:27:12 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 17:27:12 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 17:27:12 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 17:27:12 +02:00 ulayus  Creating files and directories...  OK
+May 28 17:27:12 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 17:27:13 +02:00 ulayus  Setting up Linux console... OK
+May 28 17:27:13 +02:00 ulayus  Starting system log daemon... OK
+May 28 17:27:13 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 17:27:13 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 17:27:13 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 17:27:13 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+May 28 17:27:13 +02:00 ulayus  Starting SSH Server... OK
+--------
+May 28 18:40:18 +02:00 (none)  Mounting virtual file systems: /run /proc /sys /dev/shm /sys/fs/cgroup OK
+May 28 18:40:18 +02:00 (none)  Create symlinks in /dev targeting /proc: /dev/stdin /dev/stdout /dev/stderr /dev/fd /dev/core OK
+May 28 18:40:18 +02:00 (none)  Bringing up the loopback interface... OK
+May 28 18:40:18 +02:00 (none)  Setting hostname to ulayus... OK
+May 28 18:40:18 +02:00 ulayus  Populating /dev with device nodes...  OK
+May 28 18:40:09 +02:00 ulayus  Activating all swap files/partitions... OK
+May 28 18:40:09 +02:00 ulayus  Mounting root file system in read-only mode...  OK
+May 28 18:40:09 +02:00 ulayus  Checking file systems... OK
+May 28 18:40:09 +02:00 ulayus  Remounting root file system in read-write mode... OK
+May 28 18:40:09 +02:00 ulayus  Mounting remaining file systems... OK
+May 28 18:40:09 +02:00 ulayus  Cleaning file systems: /tmp OK
+May 28 18:40:09 +02:00 ulayus  Creating files and directories...  OK
+May 28 18:40:09 +02:00 ulayus  Retrying failed uevents, if any... OK
+May 28 18:40:10 +02:00 ulayus  Setting up Linux console... OK
+May 28 18:40:10 +02:00 ulayus  Starting system log daemon... OK
+May 28 18:40:10 +02:00 ulayus  Starting kernel log daemon... OK
+May 28 18:40:10 +02:00 ulayus  Bringing up the enp0s3 interface... OK
+May 28 18:40:10 +02:00 ulayus  Adding IPv4 address 10.0.2.15 to the enp0s3 interface... OK
+May 28 18:40:10 +02:00 ulayus  Adding default gateway 10.0.2.2 to the enp0s3 interface... OK
+May 28 18:40:10 +02:00 ulayus  Starting SSH Server... OK
+--------

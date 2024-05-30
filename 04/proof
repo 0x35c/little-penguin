@@ -1,0 +1,29 @@
+[  837.182035] usb 2-2: new full-speed USB device number 12 using ohci-pci
+[  837.789275] usb 2-2: New USB device found, idVendor=04d9, idProduct=a293, bcdDevice= 1.00
+[  837.790137] usb 2-2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[  837.790597] usb 2-2: Product: OBINS
+               AnnePro2
+[  837.790949] usb 2-2: Manufacturer: OBINS
+[  837.791182] usb 2-2: SerialNumber: 01000505555374F002150B1296AB7F65
+[  837.808621] input: OBINS OBINS
+               AnnePro2 as /devices/pci0000:00/0000:00:06.0/usb2/2-2/2-2:1.0/0003:04D9:A293.0026/input/input61
+[  837.809638] hid-generic 0003:04D9:A293.0026: input,hidraw1: USB HID v1.10 Keyboard [OBINS OBINS
+               AnnePro2] on usb-0000:00:06.0-2/input0
+[  837.824630] input: OBINS OBINS
+               AnnePro2 as /devices/pci0000:00/0000:00:06.0/usb2/2-2/2-2:1.1/0003:04D9:A293.0027/input/input62
+[  837.825768] hid-generic 0003:04D9:A293.0027: input,hidraw2: USB HID v1.10 Device [OBINS OBINS
+               AnnePro2] on usb-0000:00:06.0-2/input1
+[  837.839662] input: OBINS OBINS
+               AnnePro2 Consumer Control as /devices/pci0000:00/0000:00:06.0/usb2/2-2/2-2:1.2/0003:04D9:A293.0028/input/input63
+[  837.840578] input: OBINS OBINS
+               AnnePro2 Keyboard as /devices/pci0000:00/0000:00:06.0/usb2/2-2/2-2:1.2/0003:04D9:A293.0028/input/input64
+[  837.841367] input: OBINS OBINS
+               AnnePro2 Mouse as /devices/pci0000:00/0000:00:06.0/usb2/2-2/2-2:1.2/0003:04D9:A293.0028/input/input65
+[  837.842151] hid-generic 0003:04D9:A293.0028: input,hidraw3: USB HID v1.10 Keyboard [OBINS OBINS
+               AnnePro2] on usb-0000:00:06.0-2/input2
+[  837.856917] input: OBINS OBINS
+               AnnePro2 as /devices/pci0000:00/0000:00:06.0/usb2/2-2/2-2:1.3/0003:04D9:A293.0029/input/input66
+[  837.858127] hid-generic 0003:04D9:A293.0029: input,hidraw4: USB HID v1.10 Gamepad [OBINS OBINS
+               AnnePro2] on usb-0000:00:06.0-2/input3
+[  837.863323] Hello world !
+[  841.309501] usb 2-2: USB disconnect, device number 12

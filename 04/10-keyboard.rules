@@ -1,0 +1,4 @@
+ACTION=="add", \
+SUBSYSTEM=="input", \
+ENV{ID_BUS}="usb", \
+RUN+="/sbin/modprobe /root/little-penguin/04/hello.ko"
