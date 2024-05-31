@@ -1,2 +1,5 @@
 lfs-vm.ova
 .clang-format
+gen_compile_commands.py
+compile_commands.json
+.cache/
