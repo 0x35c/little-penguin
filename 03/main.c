@@ -24,7 +24,7 @@ static __init int my_init(void)
 	return 0;
 }
 
-staitc __exit void my_exit(void)
+static __exit void my_exit(void)
 {
 }
 
